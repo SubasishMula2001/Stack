@@ -27,7 +27,8 @@ Impact:
 
 The use of call ensures that the Uniswap V2 protocol can execute trades atomically and securely, ensuring that transactions revert if any part of the swap fails.
 It contributes to the protocol’s ability to maintain liquidity across various token pairs, thereby supporting decentralized trading activities without relying on intermediaries.
-Conclusion
+
+Conclusion : 
 This analysis showcases how the call function is integral to the Uniswap V2 protocol's operation, specifically in facilitating token swaps and maintaining liquidity pools. This function enables secure and efficient interaction with external ERC20 token contracts, thereby supporting decentralized finance (DeFi) principles.
 
 
